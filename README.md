@@ -7,7 +7,7 @@ Different kinds of machine learning techniques are applied on the diabetes patie
   
 **Part A** Supervised machine learning Algorithm.ipynb file contains the code for Supervised Machine learning tasks. 
 
-It has Two parts such as
+It has Two parts such as Task1 and Task2
 
 Task1: Class label -  Readmission\
 Task2: Class label -  Age
