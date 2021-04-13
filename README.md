@@ -5,12 +5,12 @@ Different kinds of machine learning techniques are applied on the diabetes patie
 
 # File Descriptions
   
-Part A Supervised machine learning Algorithm.ipynb file contains the code for Supervised Machine learning tasks. 
+**Part A** Supervised machine learning Algorithm.ipynb file contains the code for Supervised Machine learning tasks. 
 It has Two parts 
 Task1: Class label -  Readmission
 Task2: Class label -  Age
 
-Part B Semi-Supervised Learning.ipynb file contains the code for Semi-Supervised Machine learning Algorithms.
+**Part B** Semi-Supervised Learning.ipynb file contains the code for Semi-Supervised Machine learning Algorithms.
 Class label for this part is Readmission.
 
 Dataset_diabetes folder contains the dataset
